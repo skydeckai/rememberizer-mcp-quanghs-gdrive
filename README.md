@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/skydeckai-rememberizer-mcp-quanghs-gdrive-badge.png)](https://mseep.ai/app/skydeckai-rememberizer-mcp-quanghs-gdrive)
+
 # Rememberizer MCP Server for Common Knowledge
 <!-- CK_DESCRIPTION_START -->
 A private CK for testing MCP server from QuangH.
